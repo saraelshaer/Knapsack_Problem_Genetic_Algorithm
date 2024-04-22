@@ -10,5 +10,5 @@
 <li>Crossover and Mutation: Genetic operators such as crossover and mutation are applied to create new offspring individuals with variations from parent individuals.
 <li>Fitness Evaluation: The fitness of individuals is evaluated based on their ability to maximize the total value of items within the knapsack while not exceeding the weight capacity.
 </ul>
-<img src="https://github.com/saraelshaer/Knapsack_Problem_Genetic_Algorithm/blob/main/knapsack_image.png" alt="knapsack image" align =center height=600 width=600>
+<img src="https://github.com/saraelshaer/Knapsack_Problem_Genetic_Algorithm/blob/main/knapsack_image.png" alt="knapsack image" align ="middle" height=500 width=800>
 
